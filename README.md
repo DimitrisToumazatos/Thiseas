@@ -1,6 +1,6 @@
 # Thiseas
-This project allows you to find the exit of a maze comprised of 1s and 0s.
-This program was created as an assignment during the third semester of Computer Science in AUEB for their class "Data Structures".
+This program allows you to find the exit of a maze comprised of 1s and 0s.
+This project was created as an assignment during the third semester of Computer Science in AUEB for their class "Data Structures".
 
 # Co-Authors: <a href="https://github.com/DimitrisToumazatos" title="Dimitris Toumazatos">Dimitris Toumazatos</a> and <a href="https://github.com/DFotogiannopoulos" title="Dimitris Fotogiannopoulos">Dimitris Fotogiannopoulos</a>
 
