@@ -15,5 +15,5 @@ This project was created as an assignment during the third semester of Computer 
 ![img](https://user-images.githubusercontent.com/90845305/203610193-d5ae6b00-43a6-4389-b017-95ef5498f853.png)
 
 # Notes:
-The program prints to coordinates (ex. (0,0), (2,7) etc.) of the exit if there is one, else it prints a corrisponding message.
+The program prints the coordinates (ex. (0,0), (2,7) etc.) of the exit if there is one, else it prints a corrisponding message.
 If there are issues with the file's format a corrisponding message will be printed and the execution of the program will be terminated.
