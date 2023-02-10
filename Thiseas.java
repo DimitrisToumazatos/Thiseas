@@ -11,7 +11,7 @@ public class Thiseas {
 
             String temp = readDim(line, 0);                // read the Labyrinth's length
             int length = Integer.parseInt(temp);                // save it as integer
-            int width = Integer.parseInt(readDim(line + " ", line.length()-temp.length()));  // read the Labyrinth's width and save it as integer
+            int width = Integer.parseInt(readDim(line + " ", temp.length() + 1));  // read the Labyrinth's width and save it as integer
 
             char[][] myArray = new char[length][width];         // create a 2 dimensional character array with the given dimensions
 
@@ -19,7 +19,7 @@ public class Thiseas {
 
             temp = readDim(line, 0);                         // read the Entrance's coordinates
             int Ei = Integer.parseInt(temp);
-            int Ej = Integer.parseInt(readDim(line + " ", line.length()-temp.length()));
+            int Ej = Integer.parseInt(readDim(line + " ", temp.length() + 1));
 
             int Ecount = 0;              // this variable checks if there have been given multiple entrances in the Labyrinth
 
